@@ -37,3 +37,5 @@ fs.writeSync(fd, "今天天气真不错～～～",0);
 
 // 关闭文件
 fs.closeSync(fd);
+
+console.log("程序向下执行~~~");
